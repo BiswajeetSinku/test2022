@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is B658-E6C1
+
+ Directory of C:\Users\Biswajeet\Desktop\firstgit
+
+21-Oct-22  12:25 PM    <DIR>          .
+21-Oct-22  12:25 PM    <DIR>          ..
+21-Oct-22  12:25 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  25,765,806,080 bytes free
